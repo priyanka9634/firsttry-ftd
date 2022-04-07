@@ -1,8 +1,6 @@
 -- import: fpm
 
--- fpm.package: fifthtry.github.io/<change-this>
-zip: github.com/fifthtry/<change-this>/archive/refs/heads/main.zip
+-- fpm.package: priyanka9634.github.io/firsttry-ftd
+zip: github.com/priyanka9634/firsttry-ftd/archive/refs/heads/main.zip
 
--- fpm.dependency: fifthtry.github.io/Forest-Theme
-
--- fpm.auto-import: fifthtry.github.io/Forest-Theme as ft
+-- fpm.auto-import: priyanka9634.github.io/firsttry-ftd/assets
